@@ -6,3 +6,11 @@ public class function()
         Concole.WriteLine("Edit by traffic");
     }
 }
+
+public class function2()
+{
+    public static void main()
+    {
+        Console.WriteLine("Edit by env");
+    }
+}
